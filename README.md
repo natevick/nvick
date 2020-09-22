@@ -1,6 +1,10 @@
 ## Hi, I'm Nate 👋
 
+## Find me around the web 🌎:
 
+- :bird: [natron99](https://twitter.com/natron99 "@natron99 on Twitter") on Twitter
+- :key: [natevick](https://keybase.io/natevick "natevick on Keybase") on Keybase
+- :technologist: [natevick](https://dev.to/natevick "natevick on Dev.to") on Dev.to
 
 <!--
 **nvick/nvick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
