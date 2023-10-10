@@ -1,5 +1,7 @@
 ## Hi, I'm Nate 👋
 
+I wear many hats: from a family man and weekend farmer to an outdoors enthusiast and software developer. I served as a Director of Technology for nearly two decades, building and rolling out key internal software tools. I joined the team at Hint, a software consultancy, eventually becoming a partner. Drawing on my vast experience in technology and software development, I'm now focused on building <a href="https://selective.ci">Selective</a>, a tool to supercharge your existing CI with an intelligent test runner that offers real-time test results, failed test re-enqueuing, and analytics, aiming to shorten the CI feedback cycle so developers can get back to writing code faster.
+
 ## Find me around the web 🌎:
 
 - :bird: [natron99](https://twitter.com/natron99 "@natron99 on Twitter") on Twitter
